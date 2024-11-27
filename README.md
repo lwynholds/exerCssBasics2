@@ -1,4 +1,4 @@
-# CSS Basics Assignment
+# CSS My Website Assignment
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 
